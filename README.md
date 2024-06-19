@@ -1,7 +1,7 @@
 # EEG-Controlled-Prosthetic-Arm
 
 
-![Project Image or Logo](https://github.com/Marc-Hany/EEG-Controlled-Prosthetic-Arm/commit/4199948fe4f5d4bf3e4d6c23aff3a7ef479849a5)
+![Project Image or Logo](https://github.com/Marc-Hany/EEG-Controlled-Prosthetic-Arm/blob/main/Arm.png?raw=true)
 
 ## Table of Contents
 
