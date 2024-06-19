@@ -16,13 +16,13 @@ The EEG-Controlled Prosthetic Arm project leverages EEG signals channels Pz, P3,
 
 ## Features
 
--EEG Dataset Utilization:EEG signals captured from predefined channels and saved in a dataset were used to train a deep learning model.
--Machine Learning Model: Employed for real-time prediction of user actions based on EEG data, ensuring responsive and intuitive prosthetic control.
--Bluetooth Communication: Facilitates seamless transmission of processed signals from the machine learning model to the ESP32 microcontroller embedded in the prosthetic arm.
--Graphical User Interface (GUI): Provides a user-friendly interface for initiating and adjusting grasp and lift functions.
--Real Life Model Integration: Incorporates a customizable prosthetic arm model, designed for comfort and functionality.
+- EEG Dataset Utilization:EEG signals captured from predefined channels and saved in a dataset were used to train a deep learning model.
+- Machine Learning Model: Employed for real-time prediction of user actions based on EEG data, ensuring responsive and intuitive prosthetic control.
+- Bluetooth Communication: Facilitates seamless transmission of processed signals from the machine learning model to the ESP32 microcontroller embedded in the prosthetic arm.
+- Graphical User Interface (GUI): Provides a user-friendly interface for initiating and adjusting grasp and lift functions.
+- Real Life Model Integration: Incorporates a customizable prosthetic arm model, designed for comfort and functionality.
 ![System Workflow](https://github.com/Marc-Hany/EEG-Controlled-Prosthetic-Arm/blob/main/System%20Workflow.png?raw=true)
 
 
 ## Project Files
--For a more detailed description: https://drive.google.com/drive/folders/1ki9Iui3ly2TKzNObjGp2JHiSAL6yZ45y
+-For more details: https://drive.google.com/drive/folders/1ki9Iui3ly2TKzNObjGp2JHiSAL6yZ45y
