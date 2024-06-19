@@ -12,7 +12,7 @@
 
 ## About the Project
 
-The EEG-Controlled Prosthetic Arm project leverages EEG signals channels Pz, P3, P4, Cz, C3, and C4 to enable six distinct grasp and lift movements. A machine learning model processes these signals to predict user intentions, which are then transmitted via Bluetooth to an ESP32 microcontroller for precise control of the prosthetic arm.
+The EEG-Controlled Prosthetic Arm project leverages EEG signals channels Pz, P3, P4, Cz, C3, and C4 to enable six distinct grasp and lift movements. A machine learning model processes these signals to predict user intentions, which are then transmitted via Bluetooth to an ESP32 microcontroller that controlls servo motors for precise control of the prosthetic arm.
 
 ## Features
 
